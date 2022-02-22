@@ -1,7 +1,7 @@
 # podfi
 Turning your favorite podcasts into lofi!
 
-#How to run!
+# How to run!
 Run `docker build -t <whatever name>` and then `docker run --publish 8000:3000 <name of image>`
 
 ## Adding Songs
